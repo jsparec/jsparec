@@ -1,16 +1,17 @@
-## Olá!<img src="https://github.com/jsparec/jspare/blob/main/gifs/Hi.gif" width="30px"> Eu sou o Jhonatan dos Santos 
+## Olá! <img src="https://github.com/jsparec/jspare/blob/main/gifs/Hi.gif" width="30px"> Eu sou o Jhonatan dos Santos 👨🏻‍💻
 
+<h3> Sobre mim </h2>
   🖥️ Atualmente estudo Analise e Desenvolvimento de Sistemas <br>
-  🎮 Estou jogando Valorant pelo Time X
+  🎮 Estou jogando Valorant pelo Time X <br>
+  💍 @C
+   <br>
   <br>
-  <br>
-  
-   <div>
+ 
+ <div>
   <a href="https://github.com/jsparec">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jspare&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
    </div>
-
-##
+  
  
 <div style="display: inline_block">
   <h2>
