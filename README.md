@@ -9,7 +9,7 @@
 	<samp> Sobre mim 
 		</h3>
   <samp> 🖥️ Atualmente estudo Analise e Desenvolvimento de Sistemas <br>
-  <samp> ⏳ 1/5... <br>
+  <samp> ⏳ 2/5... <br>
   <samp> 🎮 Estou jogando Valorant pelo Time X <br>
   <samp> 💍 @C
  <br>
