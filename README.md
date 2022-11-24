@@ -8,9 +8,11 @@
 <h2> 
 	<samp> Sobre mim 
 		</h2>
+ <h3>
   <samp> 🖥️ Atualmente estudo Analise e Desenvolvimento de Sistemas <br>
   <samp> ⏳ 2/5... <br>
   <samp> 🎮 Estou jogando Valorant pelo Time X <br>
+	  </h3>
  <br>
  <br>
 	
